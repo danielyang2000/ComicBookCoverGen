@@ -1,13 +1,14 @@
 # Welcome to our Digital Image Processing Project. The code presented here is for scraping comic book cover images only. 
 
-Thanks to user GitHub miri64 for developing a GitHub Repo that servers as a python wrapper for comicvine.com, which enabled us to easily scrape data from comicvine.com
+Thanks to user GitHub miri64 for developing a GitHub Repo that serves as a python wrapper for comicvine.com, which enabled us to easily scrape data from comicvine.com
 
 I used miri64's "pycomicvine" module to scrape comic book cover images from comicvine.com
 
-The only code I wrote is "scrape code" Jupyter Notebook, which is used for extracting comic book image, processing it, and saving it on my local laptop directory to be used for training later
+The only code I personally wrote is "scrape code" Jupyter Notebook, which is used for extracting comic book image, processing it, and saving it on my local laptop directory to be used for training later
 
 Everything else is in this folder is wrote by miri64 as part of his repo to extract all kinds of data from comicvine.com. 
 
+Thank you!
 
 
 # EVERYTHING BELOW IS WRITTEN BY USER miri64 FOR SETTING UP AND EXPLAINING THE PYCOMICVINE MODULE
