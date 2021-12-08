@@ -6,12 +6,14 @@ I used miri64's "pycomicvine" module to scrape comic book cover images from comi
 
 The only code I personally wrote is "scrape code" Jupyter Notebook, which is used for extracting comic book image, processing it, and saving it on my local laptop directory to be used for training later
 
-Everything else is in this folder is wrote by miri64 as part of his repo to extract all kinds of data from comicvine.com. 
+Everything else is in this folder is wrote by miri64 as part of his repo to extract all kinds of data from comicvine.com. Here is link to his pycomicvine repo: https://github.com/miri64/pycomicvine 
 
 Thank you!
 
 
-# EVERYTHING BELOW IS WRITTEN BY USER miri64 FOR SETTING UP AND EXPLAINING THE PYCOMICVINE MODULE
+# EVERYTHING BELOW IS WRITTEN BY USER miri64 FOR SETTING UP AND EXPLAINING THE PYCOMICVINE MODULE. 
+
+original repo: https://github.com/miri64/pycomicvine
 
 # pycomicvine
 A python wrapper for comicvine.com
