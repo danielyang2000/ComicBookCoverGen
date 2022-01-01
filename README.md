@@ -5,7 +5,7 @@ Thanks to user GitHub miri64 for developing a GitHub Repo that serves as a pytho
 
 I used miri64's "pycomicvine" module to scrape comic book cover images from comicvine.com
 
-The only code I personally wrote is "scraping code".ipynb, which is used for extracting comic book image, processing it, and saving it on my local laptop directory to be used for training later
+The only code I (Daniel Yang) personally wrote is "scraping code".ipynb, which is used for extracting comic book image, processing it, and saving it on my local laptop directory to be used for training later
 
 Everything else is in this folder is wrote by miri64 as part of his repo to extract all kinds of data from comicvine.com. Here is link to his pycomicvine repo: https://github.com/miri64/pycomicvine 
 
