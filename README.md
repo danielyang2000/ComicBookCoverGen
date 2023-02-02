@@ -1,4 +1,4 @@
-# Welcome to our Digital Image Processing Project. The code presented here is for scraping comic book cover images only. 
+# Welcome to our Digital Image Processing (Fall 2021) Project. The code presented here is for scraping comic book cover images only. 
 # To see our final project, visit http://comicgan.xyz/index.html
 
 Thanks to user GitHub miri64 for developing a GitHub Repo that serves as a python wrapper for comicvine.com, which enabled us to easily scrape data from comicvine.com
